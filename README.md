@@ -1,6 +1,6 @@
 👋 Hi, I’m @kr1stopher
 👀 I’m interested in robotics, controls, algorithms, and problem solving. 
-🌱 I’m currently learning ROS
+🌱 Experienced with Python, C++, ROS, Arduino/PLC and more. 
 💞️ I’m looking for internships while currently persuing my masters
 📫 I can be reached at swartzbaugh.k@gmail.com
 
